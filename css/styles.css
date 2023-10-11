@@ -1,0 +1,28 @@
+h1 {
+    color: plum;
+    text-align: center;
+  }
+  
+  h2 {
+    font-style: italic;
+    text-align: center;
+    color: rgb(61, 211, 211);
+  }
+  
+  p {
+    color: gray;
+  }
+
+  body {
+    background-color: palevioletred;
+  }
+  .flashy {
+    color:red;
+    font-style: italic
+  }
+  #best {
+    Color: blue
+  }
+  img author{
+    text-align: center;
+  }
